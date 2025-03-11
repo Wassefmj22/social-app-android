@@ -11,7 +11,7 @@ The latest app version is available on [Google Play](https://play.google.com/sto
  <!-- ### Full showcase of application -->
 
  <!-- [App video should be here](https://) -->
-
+ ok
 Setup steps
 ===========
 
